@@ -1,5 +1,5 @@
 
-# This project was done as part of the second interview for a job interview
+# This project was done as part of a job interview
 
 *python version: 3.8*
 
