@@ -4,9 +4,13 @@
 *python version: 3.8*
 
 *Steps to run the program:*
+
     1- python UseCase.py
+
     2- Go to localhost/upload
+
     3- Upload a csv X_test file (an example is provided in ./data  directory)
+
     4- See the restlts as a .csv file in *./results* directory.
     
 
