@@ -1,5 +1,5 @@
 
-# This project was done as part of the second interview for the junior data scientist position at ABN AMRO.
+# This project was done as part of the second interview for a job interview
 
 *python version: 3.8*
 
